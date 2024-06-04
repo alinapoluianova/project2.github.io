@@ -1,0 +1,357 @@
+img {
+  width: 100%;
+
+}
+
+.container {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+
+.container {
+  display: flex;
+}
+
+.card {
+  width: 18rem;
+  border: none;
+  display: flex;
+}
+
+.card:hover {
+  animation: none;
+  font-weight: 700;
+  text-decoration: none;
+  transform: scale(1.1);
+  transition: all 1s;
+  font-size: 1.1rem;
+}
+
+
+.col-md-5,
+.col-md-7 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+.col-md-6 {
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+body {
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+.fon-1 {
+  color: white;
+  background-color: #9BA8AB;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon-2 {
+  color: white;
+  background-color: #4A5C6A;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon-3 {
+  color: white;
+  background-color: #253745;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon-4 {
+  color: white;
+  background-color: #11212D;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.people {
+  color: white;
+  background-color: #11212D;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.ANALYSTS {
+  color: white;
+  background-color: #3d1e4f;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.DIPLOMATS {
+  color: white;
+  background-color: #3a9043;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.SENTINELS {
+  color: white;
+  background-color: #4399b5;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.EXPLORERS {
+  color: white;
+  background-color: rgba(165, 165, 45, 0.758);
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.logo {
+  margin: 30px;
+}
+
+.fon01 {
+  color: white;
+  background-color: #BC95CF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon02 {
+  color: white;
+  background-color: #906BA2;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon03 {
+  color: white;
+  background-color: #654377;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon04 {
+  color: white;
+  background-color: #3D1E4F;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon011 {
+  color: white;
+  background-color: #3A9043;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon022 {
+  color: white;
+  background-color: #17742A;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon033 {
+  color: white;
+  background-color: #005910;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon044 {
+  color: white;
+  background-color: #003F00;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon1 {
+  color: white;
+  background-color: #167A95;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon2 {
+  color: white;
+  background-color: #005D77;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon3 {
+  color: white;
+  background-color: #004159;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon10 {
+  color: white;
+  background-color: #AE9276;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon20 {
+  color: white;
+  background-color: #815D35;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.fon30 {
+  color: white;
+  background-color: #3F3428;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Russo One", sans-serif;
+}
+
+.golovna {
+  background: conic-gradient(crimson, coral, #800080);
+  background-clip: text;
+  color: transparent;
+  background-size: 2000px 2000px;
+  animation: rgb 1.5s infinite linear;
+}
+
+@keyframes rgb {
+  0% {
+    background-position: 0 0;
+  }
+  25% {
+    background-position: 0 100%;
+  }
+  50% {
+    background-position: 100% 100%;
+  }
+  75% {
+    background-position: 100% 0;
+  }
+  100% {
+    background-position: 0 0;
+  }
+}
